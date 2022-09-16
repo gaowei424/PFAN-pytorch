@@ -1,0 +1,499 @@
+nohup: ignoring input
+Models would be saved at : ./models/alph-0.7_wbce_w0-1.0_w1-1.15
+
+TRAIN :: Epoch : 1	Batch : 1/1056 (0.09%)		Tot Loss : 1.2296	Reg : 0.4967
+TRAIN :: Epoch : 1	Batch : 251/1056 (23.77%)		Tot Loss : 0.1690	Reg : 0.0034
+TRAIN :: Epoch : 1	Batch : 501/1056 (47.44%)		Tot Loss : 0.1500	Reg : 0.0018
+TRAIN :: Epoch : 1	Batch : 751/1056 (71.12%)		Tot Loss : 0.1407	Reg : 0.0020
+TRAIN :: Epoch : 1	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1589	Reg : 0.0014
+TEST :: MAE : 0.1023	ACC : 0.8969	PRE : 0.6883	REC : 0.6520	AVG-LOSS : 0.2165
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 2	Batch : 1/1056 (0.09%)		Tot Loss : 0.1647	Reg : 0.0013
+TRAIN :: Epoch : 2	Batch : 251/1056 (23.77%)		Tot Loss : 0.1651	Reg : 0.0009
+TRAIN :: Epoch : 2	Batch : 501/1056 (47.44%)		Tot Loss : 0.1217	Reg : 0.0008
+TRAIN :: Epoch : 2	Batch : 751/1056 (71.12%)		Tot Loss : 0.1467	Reg : 0.0012
+TRAIN :: Epoch : 2	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1457	Reg : 0.0008
+
+
+TRAIN :: Epoch : 3	Batch : 1/1056 (0.09%)		Tot Loss : 0.1030	Reg : 0.0008
+TRAIN :: Epoch : 3	Batch : 251/1056 (23.77%)		Tot Loss : 0.2231	Reg : 0.0011
+TRAIN :: Epoch : 3	Batch : 501/1056 (47.44%)		Tot Loss : 0.0852	Reg : 0.0009
+TRAIN :: Epoch : 3	Batch : 751/1056 (71.12%)		Tot Loss : 0.1934	Reg : 0.0008
+TRAIN :: Epoch : 3	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0864	Reg : 0.0007
+TEST :: MAE : 0.0748	ACC : 0.9063	PRE : 0.7051	REC : 0.8227	AVG-LOSS : 0.1646
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 4	Batch : 1/1056 (0.09%)		Tot Loss : 0.0681	Reg : 0.0006
+TRAIN :: Epoch : 4	Batch : 251/1056 (23.77%)		Tot Loss : 0.0616	Reg : 0.0007
+TRAIN :: Epoch : 4	Batch : 501/1056 (47.44%)		Tot Loss : 0.1026	Reg : 0.0006
+TRAIN :: Epoch : 4	Batch : 751/1056 (71.12%)		Tot Loss : 0.1180	Reg : 0.0008
+TRAIN :: Epoch : 4	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1055	Reg : 0.0006
+
+
+TRAIN :: Epoch : 5	Batch : 1/1056 (0.09%)		Tot Loss : 0.0623	Reg : 0.0007
+TRAIN :: Epoch : 5	Batch : 251/1056 (23.77%)		Tot Loss : 0.0963	Reg : 0.0005
+TRAIN :: Epoch : 5	Batch : 501/1056 (47.44%)		Tot Loss : 0.1113	Reg : 0.0005
+TRAIN :: Epoch : 5	Batch : 751/1056 (71.12%)		Tot Loss : 0.0616	Reg : 0.0006
+TRAIN :: Epoch : 5	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1040	Reg : 0.0005
+TEST :: MAE : 0.0727	ACC : 0.9101	PRE : 0.7395	REC : 0.7907	AVG-LOSS : 0.1660
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 6	Batch : 1/1056 (0.09%)		Tot Loss : 0.0615	Reg : 0.0005
+TRAIN :: Epoch : 6	Batch : 251/1056 (23.77%)		Tot Loss : 0.1139	Reg : 0.0007
+TRAIN :: Epoch : 6	Batch : 501/1056 (47.44%)		Tot Loss : 0.1220	Reg : 0.0006
+TRAIN :: Epoch : 6	Batch : 751/1056 (71.12%)		Tot Loss : 0.1140	Reg : 0.0010
+TRAIN :: Epoch : 6	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1241	Reg : 0.0005
+
+
+TRAIN :: Epoch : 7	Batch : 1/1056 (0.09%)		Tot Loss : 0.1041	Reg : 0.0006
+TRAIN :: Epoch : 7	Batch : 251/1056 (23.77%)		Tot Loss : 0.0943	Reg : 0.0006
+TRAIN :: Epoch : 7	Batch : 501/1056 (47.44%)		Tot Loss : 0.0981	Reg : 0.0007
+TRAIN :: Epoch : 7	Batch : 751/1056 (71.12%)		Tot Loss : 0.1224	Reg : 0.0006
+TRAIN :: Epoch : 7	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1247	Reg : 0.0010
+TEST :: MAE : 0.0867	ACC : 0.8976	PRE : 0.6603	REC : 0.8291	AVG-LOSS : 0.1788
+
+Model Saved !!!
+
+TRAIN :: Epoch : 8	Batch : 1/1056 (0.09%)		Tot Loss : 0.0834	Reg : 0.0009
+TRAIN :: Epoch : 8	Batch : 251/1056 (23.77%)		Tot Loss : 0.1538	Reg : 0.0021
+TRAIN :: Epoch : 8	Batch : 501/1056 (47.44%)		Tot Loss : 0.1296	Reg : 0.0017
+TRAIN :: Epoch : 8	Batch : 751/1056 (71.12%)		Tot Loss : 0.1222	Reg : 0.0019
+TRAIN :: Epoch : 8	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1467	Reg : 0.0008
+
+
+TRAIN :: Epoch : 9	Batch : 1/1056 (0.09%)		Tot Loss : 0.0856	Reg : 0.0010
+TRAIN :: Epoch : 9	Batch : 251/1056 (23.77%)		Tot Loss : 0.0920	Reg : 0.0006
+TRAIN :: Epoch : 9	Batch : 501/1056 (47.44%)		Tot Loss : 0.1543	Reg : 0.0007
+TRAIN :: Epoch : 9	Batch : 751/1056 (71.12%)		Tot Loss : 0.2568	Reg : 0.0040
+TRAIN :: Epoch : 9	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1226	Reg : 0.0014
+TEST :: MAE : 0.1048	ACC : 0.8869	PRE : 0.6150	REC : 0.8024	AVG-LOSS : 0.2012
+
+Model Saved !!!
+
+TRAIN :: Epoch : 10	Batch : 1/1056 (0.09%)		Tot Loss : 0.1869	Reg : 0.0013
+TRAIN :: Epoch : 10	Batch : 251/1056 (23.77%)		Tot Loss : 0.1332	Reg : 0.0028
+TRAIN :: Epoch : 10	Batch : 501/1056 (47.44%)		Tot Loss : 0.1657	Reg : 0.0012
+TRAIN :: Epoch : 10	Batch : 751/1056 (71.12%)		Tot Loss : 0.1437	Reg : 0.0016
+TRAIN :: Epoch : 10	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1279	Reg : 0.0008
+
+
+TRAIN :: Epoch : 11	Batch : 1/1056 (0.09%)		Tot Loss : 0.1394	Reg : 0.0007
+TRAIN :: Epoch : 11	Batch : 251/1056 (23.77%)		Tot Loss : 0.0879	Reg : 0.0005
+TRAIN :: Epoch : 11	Batch : 501/1056 (47.44%)		Tot Loss : 0.1012	Reg : 0.0005
+TRAIN :: Epoch : 11	Batch : 751/1056 (71.12%)		Tot Loss : 0.1065	Reg : 0.0004
+TRAIN :: Epoch : 11	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1202	Reg : 0.0005
+TEST :: MAE : 0.0712	ACC : 0.9108	PRE : 0.7293	REC : 0.8372	AVG-LOSS : 0.1549
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 12	Batch : 1/1056 (0.09%)		Tot Loss : 0.0840	Reg : 0.0004
+TRAIN :: Epoch : 12	Batch : 251/1056 (23.77%)		Tot Loss : 0.0718	Reg : 0.0006
+TRAIN :: Epoch : 12	Batch : 501/1056 (47.44%)		Tot Loss : 0.0982	Reg : 0.0004
+TRAIN :: Epoch : 12	Batch : 751/1056 (71.12%)		Tot Loss : 0.0781	Reg : 0.0004
+TRAIN :: Epoch : 12	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0722	Reg : 0.0006
+
+
+TRAIN :: Epoch : 13	Batch : 1/1056 (0.09%)		Tot Loss : 0.0986	Reg : 0.0006
+TRAIN :: Epoch : 13	Batch : 251/1056 (23.77%)		Tot Loss : 0.1630	Reg : 0.0011
+TRAIN :: Epoch : 13	Batch : 501/1056 (47.44%)		Tot Loss : 0.0986	Reg : 0.0005
+TRAIN :: Epoch : 13	Batch : 751/1056 (71.12%)		Tot Loss : 0.0873	Reg : 0.0004
+TRAIN :: Epoch : 13	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1348	Reg : 0.0003
+TEST :: MAE : 0.0739	ACC : 0.9111	PRE : 0.7316	REC : 0.8339	AVG-LOSS : 0.1492
+
+Model Saved !!!
+
+TRAIN :: Epoch : 14	Batch : 1/1056 (0.09%)		Tot Loss : 0.1003	Reg : 0.0004
+TRAIN :: Epoch : 14	Batch : 251/1056 (23.77%)		Tot Loss : 0.1500	Reg : 0.0026
+TRAIN :: Epoch : 14	Batch : 501/1056 (47.44%)		Tot Loss : 0.1487	Reg : 0.0062
+TRAIN :: Epoch : 14	Batch : 751/1056 (71.12%)		Tot Loss : 0.0873	Reg : 0.0018
+TRAIN :: Epoch : 14	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1700	Reg : 0.0018
+
+
+TRAIN :: Epoch : 15	Batch : 1/1056 (0.09%)		Tot Loss : 0.0861	Reg : 0.0013
+TRAIN :: Epoch : 15	Batch : 251/1056 (23.77%)		Tot Loss : 0.0855	Reg : 0.0007
+TRAIN :: Epoch : 15	Batch : 501/1056 (47.44%)		Tot Loss : 0.0658	Reg : 0.0031
+TRAIN :: Epoch : 15	Batch : 751/1056 (71.12%)		Tot Loss : 0.2135	Reg : 0.0011
+TRAIN :: Epoch : 15	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1319	Reg : 0.0007
+TEST :: MAE : 0.0730	ACC : 0.9083	PRE : 0.7125	REC : 0.8400	AVG-LOSS : 0.1533
+
+Model Saved !!!
+
+TRAIN :: Epoch : 16	Batch : 1/1056 (0.09%)		Tot Loss : 0.0688	Reg : 0.0006
+TRAIN :: Epoch : 16	Batch : 251/1056 (23.77%)		Tot Loss : 0.0598	Reg : 0.0005
+TRAIN :: Epoch : 16	Batch : 501/1056 (47.44%)		Tot Loss : 0.0936	Reg : 0.0006
+TRAIN :: Epoch : 16	Batch : 751/1056 (71.12%)		Tot Loss : 0.1365	Reg : 0.0004
+TRAIN :: Epoch : 16	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0745	Reg : 0.0004
+
+
+TRAIN :: Epoch : 17	Batch : 1/1056 (0.09%)		Tot Loss : 0.0799	Reg : 0.0004
+TRAIN :: Epoch : 17	Batch : 251/1056 (23.77%)		Tot Loss : 0.1157	Reg : 0.0010
+TRAIN :: Epoch : 17	Batch : 501/1056 (47.44%)		Tot Loss : 0.0953	Reg : 0.0006
+TRAIN :: Epoch : 17	Batch : 751/1056 (71.12%)		Tot Loss : 0.1817	Reg : 0.0044
+TRAIN :: Epoch : 17	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1427	Reg : 0.0017
+TEST :: MAE : 0.0745	ACC : 0.9129	PRE : 0.7591	REC : 0.7775	AVG-LOSS : 0.1638
+
+Model Saved !!!
+
+TRAIN :: Epoch : 18	Batch : 1/1056 (0.09%)		Tot Loss : 0.0890	Reg : 0.0016
+TRAIN :: Epoch : 18	Batch : 251/1056 (23.77%)		Tot Loss : 0.1167	Reg : 0.0009
+TRAIN :: Epoch : 18	Batch : 501/1056 (47.44%)		Tot Loss : 0.1142	Reg : 0.0006
+TRAIN :: Epoch : 18	Batch : 751/1056 (71.12%)		Tot Loss : 0.0970	Reg : 0.0006
+TRAIN :: Epoch : 18	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0841	Reg : 0.0004
+
+
+TRAIN :: Epoch : 19	Batch : 1/1056 (0.09%)		Tot Loss : 0.1177	Reg : 0.0007
+TRAIN :: Epoch : 19	Batch : 251/1056 (23.77%)		Tot Loss : 0.1155	Reg : 0.0006
+TRAIN :: Epoch : 19	Batch : 501/1056 (47.44%)		Tot Loss : 0.1401	Reg : 0.0034
+TRAIN :: Epoch : 19	Batch : 751/1056 (71.12%)		Tot Loss : 0.1519	Reg : 0.0016
+TRAIN :: Epoch : 19	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1451	Reg : 0.0008
+TEST :: MAE : 0.0653	ACC : 0.9161	PRE : 0.8535	REC : 0.6429	AVG-LOSS : 0.2041
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 20	Batch : 1/1056 (0.09%)		Tot Loss : 0.1083	Reg : 0.0009
+TRAIN :: Epoch : 20	Batch : 251/1056 (23.77%)		Tot Loss : 0.0856	Reg : 0.0008
+TRAIN :: Epoch : 20	Batch : 501/1056 (47.44%)		Tot Loss : 0.0786	Reg : 0.0007
+TRAIN :: Epoch : 20	Batch : 751/1056 (71.12%)		Tot Loss : 0.1051	Reg : 0.0006
+TRAIN :: Epoch : 20	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0833	Reg : 0.0006
+
+
+TRAIN :: Epoch : 21	Batch : 1/1056 (0.09%)		Tot Loss : 0.2083	Reg : 0.0033
+TRAIN :: Epoch : 21	Batch : 251/1056 (23.77%)		Tot Loss : 0.0914	Reg : 0.0027
+TRAIN :: Epoch : 21	Batch : 501/1056 (47.44%)		Tot Loss : 0.1833	Reg : 0.0032
+TRAIN :: Epoch : 21	Batch : 751/1056 (71.12%)		Tot Loss : 0.1160	Reg : 0.0015
+TRAIN :: Epoch : 21	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1000	Reg : 0.0008
+TEST :: MAE : 0.0720	ACC : 0.9083	PRE : 0.7201	REC : 0.8187	AVG-LOSS : 0.1640
+
+Model Saved !!!
+
+TRAIN :: Epoch : 22	Batch : 1/1056 (0.09%)		Tot Loss : 0.1101	Reg : 0.0008
+TRAIN :: Epoch : 22	Batch : 251/1056 (23.77%)		Tot Loss : 0.1024	Reg : 0.0005
+TRAIN :: Epoch : 22	Batch : 501/1056 (47.44%)		Tot Loss : 0.1706	Reg : 0.0004
+TRAIN :: Epoch : 22	Batch : 751/1056 (71.12%)		Tot Loss : 0.1152	Reg : 0.0004
+TRAIN :: Epoch : 22	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1146	Reg : 0.0006
+
+
+TRAIN :: Epoch : 23	Batch : 1/1056 (0.09%)		Tot Loss : 0.0943	Reg : 0.0005
+TRAIN :: Epoch : 23	Batch : 251/1056 (23.77%)		Tot Loss : 0.0679	Reg : 0.0004
+TRAIN :: Epoch : 23	Batch : 501/1056 (47.44%)		Tot Loss : 0.2047	Reg : 0.0194
+TRAIN :: Epoch : 23	Batch : 751/1056 (71.12%)		Tot Loss : 0.1487	Reg : 0.0045
+TRAIN :: Epoch : 23	Batch : 1001/1056 (94.79%)		Tot Loss : 0.2392	Reg : 0.0128
+TEST :: MAE : 0.1353	ACC : 0.8636	PRE : 0.5239	REC : 0.7402	AVG-LOSS : 0.2544
+
+Model Saved !!!
+
+TRAIN :: Epoch : 24	Batch : 1/1056 (0.09%)		Tot Loss : 0.1560	Reg : 0.0108
+TRAIN :: Epoch : 24	Batch : 251/1056 (23.77%)		Tot Loss : 0.0996	Reg : 0.0055
+TRAIN :: Epoch : 24	Batch : 501/1056 (47.44%)		Tot Loss : 0.0978	Reg : 0.0049
+TRAIN :: Epoch : 24	Batch : 751/1056 (71.12%)		Tot Loss : 0.1243	Reg : 0.0041
+TRAIN :: Epoch : 24	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0943	Reg : 0.0025
+
+
+TRAIN :: Epoch : 25	Batch : 1/1056 (0.09%)		Tot Loss : 0.0860	Reg : 0.0022
+TRAIN :: Epoch : 25	Batch : 251/1056 (23.77%)		Tot Loss : 0.1334	Reg : 0.0012
+TRAIN :: Epoch : 25	Batch : 501/1056 (47.44%)		Tot Loss : 0.1192	Reg : 0.0010
+TRAIN :: Epoch : 25	Batch : 751/1056 (71.12%)		Tot Loss : 0.1017	Reg : 0.0007
+TRAIN :: Epoch : 25	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0609	Reg : 0.0006
+TEST :: MAE : 0.0646	ACC : 0.9127	PRE : 0.7459	REC : 0.8171	AVG-LOSS : 0.1547
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 26	Batch : 1/1056 (0.09%)		Tot Loss : 0.1014	Reg : 0.0005
+TRAIN :: Epoch : 26	Batch : 251/1056 (23.77%)		Tot Loss : 0.0896	Reg : 0.0008
+TRAIN :: Epoch : 26	Batch : 501/1056 (47.44%)		Tot Loss : 0.0839	Reg : 0.0006
+TRAIN :: Epoch : 26	Batch : 751/1056 (71.12%)		Tot Loss : 0.0686	Reg : 0.0005
+TRAIN :: Epoch : 26	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1061	Reg : 0.0005
+
+
+TRAIN :: Epoch : 27	Batch : 1/1056 (0.09%)		Tot Loss : 0.0948	Reg : 0.0004
+TRAIN :: Epoch : 27	Batch : 251/1056 (23.77%)		Tot Loss : 0.0750	Reg : 0.0004
+TRAIN :: Epoch : 27	Batch : 501/1056 (47.44%)		Tot Loss : 0.2072	Reg : 0.0054
+TRAIN :: Epoch : 27	Batch : 751/1056 (71.12%)		Tot Loss : 0.0987	Reg : 0.0018
+TRAIN :: Epoch : 27	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1324	Reg : 0.0009
+TEST :: MAE : 0.0732	ACC : 0.9095	PRE : 0.7244	REC : 0.8243	AVG-LOSS : 0.1579
+
+Model Saved !!!
+
+TRAIN :: Epoch : 28	Batch : 1/1056 (0.09%)		Tot Loss : 0.0793	Reg : 0.0009
+TRAIN :: Epoch : 28	Batch : 251/1056 (23.77%)		Tot Loss : 0.0909	Reg : 0.0007
+TRAIN :: Epoch : 28	Batch : 501/1056 (47.44%)		Tot Loss : 0.1206	Reg : 0.0006
+TRAIN :: Epoch : 28	Batch : 751/1056 (71.12%)		Tot Loss : 0.0828	Reg : 0.0015
+TRAIN :: Epoch : 28	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0890	Reg : 0.0009
+
+
+TRAIN :: Epoch : 29	Batch : 1/1056 (0.09%)		Tot Loss : 0.0831	Reg : 0.0008
+TRAIN :: Epoch : 29	Batch : 251/1056 (23.77%)		Tot Loss : 0.1050	Reg : 0.0008
+TRAIN :: Epoch : 29	Batch : 501/1056 (47.44%)		Tot Loss : 0.0907	Reg : 0.0005
+TRAIN :: Epoch : 29	Batch : 751/1056 (71.12%)		Tot Loss : 0.0905	Reg : 0.0005
+TRAIN :: Epoch : 29	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1968	Reg : 0.0004
+TEST :: MAE : 0.0805	ACC : 0.8985	PRE : 0.6561	REC : 0.8951	AVG-LOSS : 0.1674
+
+Model Saved !!!
+
+TRAIN :: Epoch : 30	Batch : 1/1056 (0.09%)		Tot Loss : 0.1097	Reg : 0.0004
+TRAIN :: Epoch : 30	Batch : 251/1056 (23.77%)		Tot Loss : 0.0801	Reg : 0.0006
+TRAIN :: Epoch : 30	Batch : 501/1056 (47.44%)		Tot Loss : 0.1786	Reg : 0.0097
+TRAIN :: Epoch : 30	Batch : 751/1056 (71.12%)		Tot Loss : 0.1432	Reg : 0.0051
+TRAIN :: Epoch : 30	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1124	Reg : 0.0016
+
+
+TRAIN :: Epoch : 31	Batch : 1/1056 (0.09%)		Tot Loss : 0.0984	Reg : 0.0014
+TRAIN :: Epoch : 31	Batch : 251/1056 (23.77%)		Tot Loss : 0.0942	Reg : 0.0009
+TRAIN :: Epoch : 31	Batch : 501/1056 (47.44%)		Tot Loss : 0.0720	Reg : 0.0006
+TRAIN :: Epoch : 31	Batch : 751/1056 (71.12%)		Tot Loss : 0.0829	Reg : 0.0004
+TRAIN :: Epoch : 31	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0979	Reg : 0.0003
+TEST :: MAE : 0.0589	ACC : 0.9174	PRE : 0.7710	REC : 0.8348	AVG-LOSS : 0.1432
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 32	Batch : 1/1056 (0.09%)		Tot Loss : 0.0665	Reg : 0.0003
+TRAIN :: Epoch : 32	Batch : 251/1056 (23.77%)		Tot Loss : 0.0585	Reg : 0.0003
+TRAIN :: Epoch : 32	Batch : 501/1056 (47.44%)		Tot Loss : 0.0621	Reg : 0.0003
+TRAIN :: Epoch : 32	Batch : 751/1056 (71.12%)		Tot Loss : 0.0657	Reg : 0.0003
+TRAIN :: Epoch : 32	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0968	Reg : 0.0002
+
+
+TRAIN :: Epoch : 33	Batch : 1/1056 (0.09%)		Tot Loss : 0.0855	Reg : 0.0003
+TRAIN :: Epoch : 33	Batch : 251/1056 (23.77%)		Tot Loss : 0.0695	Reg : 0.0003
+TRAIN :: Epoch : 33	Batch : 501/1056 (47.44%)		Tot Loss : 0.0940	Reg : 0.0010
+TRAIN :: Epoch : 33	Batch : 751/1056 (71.12%)		Tot Loss : 0.1082	Reg : 0.0006
+TRAIN :: Epoch : 33	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1056	Reg : 0.0004
+TEST :: MAE : 0.0602	ACC : 0.9148	PRE : 0.7545	REC : 0.8380	AVG-LOSS : 0.1519
+
+Model Saved !!!
+
+TRAIN :: Epoch : 34	Batch : 1/1056 (0.09%)		Tot Loss : 0.0866	Reg : 0.0004
+TRAIN :: Epoch : 34	Batch : 251/1056 (23.77%)		Tot Loss : 0.0595	Reg : 0.0004
+TRAIN :: Epoch : 34	Batch : 501/1056 (47.44%)		Tot Loss : 0.0660	Reg : 0.0003
+TRAIN :: Epoch : 34	Batch : 751/1056 (71.12%)		Tot Loss : 0.0962	Reg : 0.0005
+TRAIN :: Epoch : 34	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0870	Reg : 0.0004
+
+
+TRAIN :: Epoch : 35	Batch : 1/1056 (0.09%)		Tot Loss : 0.0580	Reg : 0.0004
+TRAIN :: Epoch : 35	Batch : 251/1056 (23.77%)		Tot Loss : 0.1057	Reg : 0.0059
+TRAIN :: Epoch : 35	Batch : 501/1056 (47.44%)		Tot Loss : 0.0770	Reg : 0.0012
+TRAIN :: Epoch : 35	Batch : 751/1056 (71.12%)		Tot Loss : 0.0799	Reg : 0.0006
+TRAIN :: Epoch : 35	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0708	Reg : 0.0005
+TEST :: MAE : 0.0665	ACC : 0.9089	PRE : 0.7103	REC : 0.8713	AVG-LOSS : 0.1558
+
+Model Saved !!!
+
+TRAIN :: Epoch : 36	Batch : 1/1056 (0.09%)		Tot Loss : 0.0863	Reg : 0.0004
+TRAIN :: Epoch : 36	Batch : 251/1056 (23.77%)		Tot Loss : 0.0939	Reg : 0.0003
+TRAIN :: Epoch : 36	Batch : 501/1056 (47.44%)		Tot Loss : 0.0713	Reg : 0.0032
+TRAIN :: Epoch : 36	Batch : 751/1056 (71.12%)		Tot Loss : 0.1214	Reg : 0.0065
+TRAIN :: Epoch : 36	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0885	Reg : 0.0013
+
+
+TRAIN :: Epoch : 37	Batch : 1/1056 (0.09%)		Tot Loss : 0.0613	Reg : 0.0014
+TRAIN :: Epoch : 37	Batch : 251/1056 (23.77%)		Tot Loss : 0.0968	Reg : 0.0007
+TRAIN :: Epoch : 37	Batch : 501/1056 (47.44%)		Tot Loss : 0.1676	Reg : 0.0008
+TRAIN :: Epoch : 37	Batch : 751/1056 (71.12%)		Tot Loss : 0.0965	Reg : 0.0006
+TRAIN :: Epoch : 37	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1193	Reg : 0.0005
+TEST :: MAE : 0.1052	ACC : 0.8750	PRE : 0.5669	REC : 0.8199	AVG-LOSS : 0.2376
+
+Model Saved !!!
+
+TRAIN :: Epoch : 38	Batch : 1/1056 (0.09%)		Tot Loss : 0.1259	Reg : 0.0038
+TRAIN :: Epoch : 38	Batch : 251/1056 (23.77%)		Tot Loss : 0.1076	Reg : 0.0012
+TRAIN :: Epoch : 38	Batch : 501/1056 (47.44%)		Tot Loss : 0.0749	Reg : 0.0005
+TRAIN :: Epoch : 38	Batch : 751/1056 (71.12%)		Tot Loss : 0.0841	Reg : 0.0006
+TRAIN :: Epoch : 38	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1408	Reg : 0.0021
+
+
+TRAIN :: Epoch : 39	Batch : 1/1056 (0.09%)		Tot Loss : 0.0886	Reg : 0.0016
+TRAIN :: Epoch : 39	Batch : 251/1056 (23.77%)		Tot Loss : 0.0773	Reg : 0.0007
+TRAIN :: Epoch : 39	Batch : 501/1056 (47.44%)		Tot Loss : 0.0592	Reg : 0.0005
+TRAIN :: Epoch : 39	Batch : 751/1056 (71.12%)		Tot Loss : 0.1267	Reg : 0.0005
+TRAIN :: Epoch : 39	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0733	Reg : 0.0006
+TEST :: MAE : 0.0606	ACC : 0.9156	PRE : 0.7661	REC : 0.8155	AVG-LOSS : 0.1545
+
+Model Saved !!!
+
+TRAIN :: Epoch : 40	Batch : 1/1056 (0.09%)		Tot Loss : 0.0775	Reg : 0.0004
+TRAIN :: Epoch : 40	Batch : 251/1056 (23.77%)		Tot Loss : 0.1214	Reg : 0.0028
+TRAIN :: Epoch : 40	Batch : 501/1056 (47.44%)		Tot Loss : 0.0570	Reg : 0.0010
+TRAIN :: Epoch : 40	Batch : 751/1056 (71.12%)		Tot Loss : 0.1035	Reg : 0.0019
+TRAIN :: Epoch : 40	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0862	Reg : 0.0007
+
+
+TRAIN :: Epoch : 41	Batch : 1/1056 (0.09%)		Tot Loss : 0.0577	Reg : 0.0007
+TRAIN :: Epoch : 41	Batch : 251/1056 (23.77%)		Tot Loss : 0.0590	Reg : 0.0004
+TRAIN :: Epoch : 41	Batch : 501/1056 (47.44%)		Tot Loss : 0.0636	Reg : 0.0003
+TRAIN :: Epoch : 41	Batch : 751/1056 (71.12%)		Tot Loss : 0.0592	Reg : 0.0003
+TRAIN :: Epoch : 41	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1553	Reg : 0.0002
+TEST :: MAE : 0.0594	ACC : 0.9155	PRE : 0.7611	REC : 0.8315	AVG-LOSS : 0.1527
+
+Model Saved !!!
+
+TRAIN :: Epoch : 42	Batch : 1/1056 (0.09%)		Tot Loss : 0.0964	Reg : 0.0003
+TRAIN :: Epoch : 42	Batch : 251/1056 (23.77%)		Tot Loss : 0.0636	Reg : 0.0002
+TRAIN :: Epoch : 42	Batch : 501/1056 (47.44%)		Tot Loss : 0.0944	Reg : 0.0016
+TRAIN :: Epoch : 42	Batch : 751/1056 (71.12%)		Tot Loss : 0.0817	Reg : 0.0007
+TRAIN :: Epoch : 42	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1185	Reg : 0.0014
+
+
+TRAIN :: Epoch : 43	Batch : 1/1056 (0.09%)		Tot Loss : 0.1170	Reg : 0.0013
+TRAIN :: Epoch : 43	Batch : 251/1056 (23.77%)		Tot Loss : 0.0575	Reg : 0.0007
+TRAIN :: Epoch : 43	Batch : 501/1056 (47.44%)		Tot Loss : 0.0780	Reg : 0.0004
+TRAIN :: Epoch : 43	Batch : 751/1056 (71.12%)		Tot Loss : 0.1313	Reg : 0.0034
+TRAIN :: Epoch : 43	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1336	Reg : 0.0025
+TEST :: MAE : 0.0780	ACC : 0.9088	PRE : 0.7392	REC : 0.7516	AVG-LOSS : 0.1778
+
+Model Saved !!!
+
+TRAIN :: Epoch : 44	Batch : 1/1056 (0.09%)		Tot Loss : 0.1395	Reg : 0.0051
+TRAIN :: Epoch : 44	Batch : 251/1056 (23.77%)		Tot Loss : 0.0685	Reg : 0.0019
+TRAIN :: Epoch : 44	Batch : 501/1056 (47.44%)		Tot Loss : 0.0526	Reg : 0.0008
+TRAIN :: Epoch : 44	Batch : 751/1056 (71.12%)		Tot Loss : 0.0964	Reg : 0.0008
+TRAIN :: Epoch : 44	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0636	Reg : 0.0005
+
+
+TRAIN :: Epoch : 45	Batch : 1/1056 (0.09%)		Tot Loss : 0.1638	Reg : 0.0004
+TRAIN :: Epoch : 45	Batch : 251/1056 (23.77%)		Tot Loss : 0.0681	Reg : 0.0004
+TRAIN :: Epoch : 45	Batch : 501/1056 (47.44%)		Tot Loss : 0.0854	Reg : 0.0005
+TRAIN :: Epoch : 45	Batch : 751/1056 (71.12%)		Tot Loss : 0.0917	Reg : 0.0004
+TRAIN :: Epoch : 45	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0728	Reg : 0.0004
+TEST :: MAE : 0.0557	ACC : 0.9187	PRE : 0.7798	REC : 0.8330	AVG-LOSS : 0.1433
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 46	Batch : 1/1056 (0.09%)		Tot Loss : 0.1091	Reg : 0.0004
+TRAIN :: Epoch : 46	Batch : 251/1056 (23.77%)		Tot Loss : 0.0721	Reg : 0.0003
+TRAIN :: Epoch : 46	Batch : 501/1056 (47.44%)		Tot Loss : 0.0884	Reg : 0.0025
+TRAIN :: Epoch : 46	Batch : 751/1056 (71.12%)		Tot Loss : 0.1098	Reg : 0.0011
+TRAIN :: Epoch : 46	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0942	Reg : 0.0009
+
+
+TRAIN :: Epoch : 47	Batch : 1/1056 (0.09%)		Tot Loss : 0.1001	Reg : 0.0007
+TRAIN :: Epoch : 47	Batch : 251/1056 (23.77%)		Tot Loss : 0.1127	Reg : 0.0006
+TRAIN :: Epoch : 47	Batch : 501/1056 (47.44%)		Tot Loss : 0.1050	Reg : 0.0005
+TRAIN :: Epoch : 47	Batch : 751/1056 (71.12%)		Tot Loss : 0.1071	Reg : 0.0005
+TRAIN :: Epoch : 47	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0950	Reg : 0.0004
+TEST :: MAE : 0.0633	ACC : 0.9113	PRE : 0.7229	REC : 0.8748	AVG-LOSS : 0.1490
+
+Model Saved !!!
+
+TRAIN :: Epoch : 48	Batch : 1/1056 (0.09%)		Tot Loss : 0.0860	Reg : 0.0004
+TRAIN :: Epoch : 48	Batch : 251/1056 (23.77%)		Tot Loss : 0.0737	Reg : 0.0003
+TRAIN :: Epoch : 48	Batch : 501/1056 (47.44%)		Tot Loss : 0.0601	Reg : 0.0002
+TRAIN :: Epoch : 48	Batch : 751/1056 (71.12%)		Tot Loss : 0.0622	Reg : 0.0004
+TRAIN :: Epoch : 48	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0730	Reg : 0.0006
+
+
+TRAIN :: Epoch : 49	Batch : 1/1056 (0.09%)		Tot Loss : 0.0679	Reg : 0.0006
+TRAIN :: Epoch : 49	Batch : 251/1056 (23.77%)		Tot Loss : 0.0638	Reg : 0.0004
+TRAIN :: Epoch : 49	Batch : 501/1056 (47.44%)		Tot Loss : 0.0488	Reg : 0.0003
+TRAIN :: Epoch : 49	Batch : 751/1056 (71.12%)		Tot Loss : 0.0800	Reg : 0.0007
+TRAIN :: Epoch : 49	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1081	Reg : 0.0004
+TEST :: MAE : 0.0564	ACC : 0.9171	PRE : 0.7672	REC : 0.8420	AVG-LOSS : 0.1494
+
+Model Saved !!!
+
+TRAIN :: Epoch : 50	Batch : 1/1056 (0.09%)		Tot Loss : 0.0502	Reg : 0.0004
+TRAIN :: Epoch : 50	Batch : 251/1056 (23.77%)		Tot Loss : 0.0856	Reg : 0.0003
+TRAIN :: Epoch : 50	Batch : 501/1056 (47.44%)		Tot Loss : 0.0952	Reg : 0.0003
+TRAIN :: Epoch : 50	Batch : 751/1056 (71.12%)		Tot Loss : 0.1033	Reg : 0.0002
+TRAIN :: Epoch : 50	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0681	Reg : 0.0004
+
+
+TRAIN :: Epoch : 51	Batch : 1/1056 (0.09%)		Tot Loss : 0.0603	Reg : 0.0004
+TRAIN :: Epoch : 51	Batch : 251/1056 (23.77%)		Tot Loss : 0.0864	Reg : 0.0007
+TRAIN :: Epoch : 51	Batch : 501/1056 (47.44%)		Tot Loss : 0.0716	Reg : 0.0004
+TRAIN :: Epoch : 51	Batch : 751/1056 (71.12%)		Tot Loss : 0.1228	Reg : 0.0011
+TRAIN :: Epoch : 51	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1505	Reg : 0.0035
+TEST :: MAE : 0.0659	ACC : 0.9125	PRE : 0.7460	REC : 0.8086	AVG-LOSS : 0.1624
+
+Model Saved !!!
+
+TRAIN :: Epoch : 52	Batch : 1/1056 (0.09%)		Tot Loss : 0.0953	Reg : 0.0023
+TRAIN :: Epoch : 52	Batch : 251/1056 (23.77%)		Tot Loss : 0.1492	Reg : 0.0022
+TRAIN :: Epoch : 52	Batch : 501/1056 (47.44%)		Tot Loss : 0.0803	Reg : 0.0008
+TRAIN :: Epoch : 52	Batch : 751/1056 (71.12%)		Tot Loss : 0.0485	Reg : 0.0004
+TRAIN :: Epoch : 52	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0437	Reg : 0.0005
+
+
+TRAIN :: Epoch : 53	Batch : 1/1056 (0.09%)		Tot Loss : 0.0765	Reg : 0.0004
+TRAIN :: Epoch : 53	Batch : 251/1056 (23.77%)		Tot Loss : 0.0700	Reg : 0.0003
+TRAIN :: Epoch : 53	Batch : 501/1056 (47.44%)		Tot Loss : 0.0766	Reg : 0.0003
+TRAIN :: Epoch : 53	Batch : 751/1056 (71.12%)		Tot Loss : 0.0984	Reg : 0.0002
+TRAIN :: Epoch : 53	Batch : 1001/1056 (94.79%)		Tot Loss : 0.2558	Reg : 0.0063
+TEST :: MAE : 0.1171	ACC : 0.8820	PRE : 0.5931	REC : 0.7648	AVG-LOSS : 0.2164
+
+Model Saved !!!
+
+TRAIN :: Epoch : 54	Batch : 1/1056 (0.09%)		Tot Loss : 0.1393	Reg : 0.0096
+TRAIN :: Epoch : 54	Batch : 251/1056 (23.77%)		Tot Loss : 0.1398	Reg : 0.0065
+TRAIN :: Epoch : 54	Batch : 501/1056 (47.44%)		Tot Loss : 0.0883	Reg : 0.0027
+TRAIN :: Epoch : 54	Batch : 751/1056 (71.12%)		Tot Loss : 0.1041	Reg : 0.0023
+TRAIN :: Epoch : 54	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0632	Reg : 0.0012
+
+
+TRAIN :: Epoch : 55	Batch : 1/1056 (0.09%)		Tot Loss : 0.0974	Reg : 0.0010
+TRAIN :: Epoch : 55	Batch : 251/1056 (23.77%)		Tot Loss : 0.0694	Reg : 0.0007
+TRAIN :: Epoch : 55	Batch : 501/1056 (47.44%)		Tot Loss : 0.0430	Reg : 0.0005
+TRAIN :: Epoch : 55	Batch : 751/1056 (71.12%)		Tot Loss : 0.0845	Reg : 0.0003
+TRAIN :: Epoch : 55	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0790	Reg : 0.0007
+TEST :: MAE : 0.0624	ACC : 0.9133	PRE : 0.7419	REC : 0.8404	AVG-LOSS : 0.1509
+
+Model Saved !!!
+
+TRAIN :: Epoch : 56	Batch : 1/1056 (0.09%)		Tot Loss : 0.0839	Reg : 0.0005
+TRAIN :: Epoch : 56	Batch : 251/1056 (23.77%)		Tot Loss : 0.0773	Reg : 0.0004
+TRAIN :: Epoch : 56	Batch : 501/1056 (47.44%)		Tot Loss : 0.0617	Reg : 0.0004
+TRAIN :: Epoch : 56	Batch : 751/1056 (71.12%)		Tot Loss : 0.0723	Reg : 0.0003
+TRAIN :: Epoch : 56	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0546	Reg : 0.0004
+
+
+TRAIN :: Epoch : 57	Batch : 1/1056 (0.09%)		Tot Loss : 0.0991	Reg : 0.0003
+TRAIN :: Epoch : 57	Batch : 251/1056 (23.77%)		Tot Loss : 0.0657	Reg : 0.0003
+TRAIN :: Epoch : 57	Batch : 501/1056 (47.44%)		Tot Loss : 0.0476	Reg : 0.0002
+TRAIN :: Epoch : 57	Batch : 751/1056 (71.12%)		Tot Loss : 0.0699	Reg : 0.0003
+TRAIN :: Epoch : 57	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0832	Reg : 0.0002
+TEST :: MAE : 0.0642	ACC : 0.9117	PRE : 0.7262	REC : 0.8728	AVG-LOSS : 0.1494
+
+Model Saved !!!
+
+TRAIN :: Epoch : 58	Batch : 1/1056 (0.09%)		Tot Loss : 0.1123	Reg : 0.0003
+TRAIN :: Epoch : 58	Batch : 251/1056 (23.77%)		Tot Loss : 0.0815	Reg : 0.0002
+TRAIN :: Epoch : 58	Batch : 501/1056 (47.44%)		Tot Loss : 0.0489	Reg : 0.0002
+TRAIN :: Epoch : 58	Batch : 751/1056 (71.12%)		Tot Loss : 0.0593	Reg : 0.0003
+TRAIN :: Epoch : 58	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0552	Reg : 0.0002
+
+
+TRAIN :: Epoch : 59	Batch : 1/1056 (0.09%)		Tot Loss : 0.1130	Reg : 0.0003
+TRAIN :: Epoch : 59	Batch : 251/1056 (23.77%)		Tot Loss : 0.0714	Reg : 0.0008
+TRAIN :: Epoch : 59	Batch : 501/1056 (47.44%)		Tot Loss : 0.0770	Reg : 0.0006
+TRAIN :: Epoch : 59	Batch : 751/1056 (71.12%)		Tot Loss : 0.0842	Reg : 0.0004
+TRAIN :: Epoch : 59	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0673	Reg : 0.0003
+TEST :: MAE : 0.0563	ACC : 0.9168	PRE : 0.7640	REC : 0.8438	AVG-LOSS : 0.1407
+
+Model Saved !!!
+
+TRAIN :: Epoch : 60	Batch : 1/1056 (0.09%)		Tot Loss : 0.0751	Reg : 0.0003
+TRAIN :: Epoch : 60	Batch : 251/1056 (23.77%)		Tot Loss : 0.0722	Reg : 0.0002
+TRAIN :: Epoch : 60	Batch : 501/1056 (47.44%)		Tot Loss : 0.0791	Reg : 0.0002
+TRAIN :: Epoch : 60	Batch : 751/1056 (71.12%)		Tot Loss : 0.0621	Reg : 0.0005
+TRAIN :: Epoch : 60	Batch : 1001/1056 (94.79%)		Tot Loss : 0.0463	Reg : 0.0003
+
+
+TRAIN :: Epoch : 61	Batch : 1/1056 (0.09%)		Tot Loss : 0.0709	Reg : 0.0003
+TRAIN :: Epoch : 61	Batch : 251/1056 (23.77%)		Tot Loss : 0.0526	Reg : 0.0002
+TRAIN :: Epoch : 61	Batch : 501/1056 (47.44%)		Tot Loss : 0.0868	Reg : 0.0002
+TRAIN :: Epoch : 61	Batch : 751/1056 (71.12%)		Tot Loss : 0.1356	Reg : 0.0010
+TRAIN :: Epoch : 61	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1132	Reg : 0.0005
+TEST :: MAE : 0.0555	ACC : 0.9173	PRE : 0.7677	REC : 0.8481	AVG-LOSS : 0.1419
+
+Best Model Saved !!!
+
+TRAIN :: Epoch : 62	Batch : 1/1056 (0.09%)		Tot Loss : 0.0506	Reg : 0.0004
+TRAIN :: Epoch : 62	Batch : 251/1056 (23.77%)		Tot Loss : 0.0483	Reg : 0.0003
+TRAIN :: Epoch : 62	Batch : 501/1056 (47.44%)		Tot Loss : 0.0824	Reg : 0.0027
+TRAIN :: Epoch : 62	Batch : 751/1056 (71.12%)		Tot Loss : 0.0808	Reg : 0.0013
+TRAIN :: Epoch : 62	Batch : 1001/1056 (94.79%)		Tot Loss : 0.1215	Reg : 0.0057
+
+
